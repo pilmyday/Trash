@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Trash",
+"productName": "垃圾桶",
 "productVersion": "0.1",
 "dataUrl": "Trash.data.unityweb",
 "wasmCodeUrl": "Trash.wasm.code.unityweb",
